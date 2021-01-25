@@ -1,0 +1,8 @@
+aloha[2] = value         -é válido
+scanf("%f", &aloha)      -não é válido, pois não tem como mudar o endereço de aloha, além de o endereço não ser do tipo float
+aloha = value"           -não é válido, pois o endereço não pode ter um valor float, e tem uma aspa mal colocada
+printf("%f", aloha)      -não é válido, pois aloha aponta para um endereço, não um double
+coisas[4][4] = aloha[3]  -é válido
+coisas[5] = aloha        -é válido
+pf = value               -não é válido, pois pf é um ponteiro e value um valor float
+pf = aloha               -é válido
