@@ -1,0 +1,6 @@
+os valores que referenciam o terceiro elemento do vetor são:
+*(pulo + 2) 
+e
+pulo + 2
+
+a primeira posição do vetor é a posição 0.
