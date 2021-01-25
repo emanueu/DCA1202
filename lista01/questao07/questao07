@@ -1,0 +1,8 @@
+as expressões
+
+p = mat++
+e
+p = ++mat
+
+não são válidas pois o operador ++ serve apenas para inteiros e caracteres, p e mat
+são endereços que apontam para inteiros, não inteiros
