@@ -1,0 +1,5 @@
+o primeiro programa exibe os valores guardados no vetor;
+ex: 4 9 13
+
+o segundo programa exibe o local da memória onde esses valores estã guardados;
+ex: XXXX0 XXXX4 XXXX8
