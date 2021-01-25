@@ -1,0 +1,10 @@
+sabendo que i e j são inteiros e p e q são ponteiros para inteiros, então
+
+p = i            -é uma expressão ilegal, pois são tipos diferente e uma atribuição impossível
+q = &j           -é uma expressão legal
+p = &*&i         -é uma expressão legal
+i = (*&)j        -é uma expressão ilegal, pois *& é uma expressão dependente de variável
+i = *&j          -é uma expressão legal
+i = *&*&j        -é uma expressão legal
+q = *p           -é uma expressão ilegal, pois está tentando passar um valor para um ponteiro
+i = (*p)++ + *q  -é uma expressão legal
