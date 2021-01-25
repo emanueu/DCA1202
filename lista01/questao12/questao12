@@ -1,0 +1,4 @@
+ponteiros para funções são ponteiros que apontam para funções com determinada estrutura,
+um mesmo tipo, mesmo tipo e quantidade de parametros. Um mesmo ponteiro pode ser usado para
+chamar mais de uma função
+esse ponteiro também pode ser passado como parametro para outras funções
