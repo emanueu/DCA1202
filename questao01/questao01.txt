@@ -1,0 +1,7 @@
+p == &i tem o valor 1 ou true, pois é uma expressão verdadeira;
+
+*p - *q tem o valor -2, pois é a subtração dos valores para qual apontam
+
+**&p tem o valor 3, já que está apontando para o valor do endereço de *p
+
+3 - *p/(*q) + 7 tem o valor 10, pois é a operação dos valores atribuidos às variáveis
