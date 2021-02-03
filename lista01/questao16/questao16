@@ -1,0 +1,7 @@
+questão 15 da lista de programação avançada feita no qt creator em C
+
+os três programas usam um vetor de tamanho 5 onde o ítem do vetor na posição i é 5-i;
+
+Na primera versão do programa o tempo foi: 0.002000
+Na segunda versão do programa, o tempo ficou variando entre 0.002000 e 0.003000
+Na terceira versão do programa, o tempo foi 0.001000
